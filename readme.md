@@ -1,4 +1,4 @@
-Hey my name is Mathieu, I'm a Web Junior Developper!
+# Hey my name is Mathieu, I'm a Web Junior Developper!
 
 <h3>
     
@@ -8,8 +8,9 @@ let skills = {
   front: [ "HTML", "CSS", "JavaScript", "Vuejs", "Qasar"],
   back: [ "PHP", "MYSQL", "Symfony", "NodeJs"],
   devops: [ "Docker", "Apache", "Nginx", "Linux"],  
-  tools: ["GIT", "GitHub", "Gitkraken", "PhpStorm", "WebStorm", "Visual Studio Code", "Sony Vegas Pro"],
-  misc: [ "English", "Agile method", "Trello", "Redmine"]
+  tools: ["GIT", "GitHub", "Gitkraken", "PhpStorm", 
+    "WebStorm", "Visual Studio Code", "Trello", "Redmine", "Sony Vegas Pro"],
+  misc: [ "English", "Agile method"]
   
 };
     
